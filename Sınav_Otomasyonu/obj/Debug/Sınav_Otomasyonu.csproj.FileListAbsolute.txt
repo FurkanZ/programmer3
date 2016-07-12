@@ -1,0 +1,38 @@
+C:\Users\uğur\AppData\Local\Temporary Projects\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.exe.config
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.exe.config
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\a.accdb
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.exe
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.pdb
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.Form1.resources
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.Properties.Resources.resources
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.exe
+C:\Users\uğur\Documents\Visual Studio 2015\Projects\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.pdb
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.exe.config
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.exe
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.pdb
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\a.accdb
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.exe
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.pdb
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\System.Net.Http.xml
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.Form1.resources
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.Properties.Resources.resources
+C:\Users\user\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.exe.config
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.exe
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.pdb
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\a.accdb
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.exe
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.pdb
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\System.Net.Http.dll
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\System.Net.Http.xml
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.Form1.resources
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.Properties.Resources.resources
+C:\Users\sedat\Desktop\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\sedat\Desktop\Oyunlar\Sınav_Otomasyonu\Sınav_Otomasyonu\bin\Debug\Sınav_Otomasyonu.exe.config
+C:\Users\sedat\Desktop\Oyunlar\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.exe
+C:\Users\sedat\Desktop\Oyunlar\Sınav_Otomasyonu\Sınav_Otomasyonu\obj\Debug\Sınav_Otomasyonu.pdb
